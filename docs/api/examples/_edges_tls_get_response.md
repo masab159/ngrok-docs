@@ -5,16 +5,16 @@
 ```json
 {
 	"backend": null,
-	"created_at": "2024-12-19T20:27:16Z",
+	"created_at": "2024-12-28T10:06:18Z",
 	"description": "acme tls edge",
 	"hostports": ["example.com:443"],
-	"id": "edgtls_2qRzB7kDhlUeqpqePIrZ27WUIpH",
+	"id": "edgtls_2qqBlmWosG7nuC0Ofaj7cReMmff",
 	"ip_restriction": null,
 	"metadata": "{\"environment\": \"staging\"}",
 	"mutual_tls": null,
 	"policy": null,
 	"tls_termination": null,
 	"traffic_policy": null,
-	"uri": "https://api.ngrok.com/edges/tls/edgtls_2qRzB7kDhlUeqpqePIrZ27WUIpH"
+	"uri": "https://api.ngrok.com/edges/tls/edgtls_2qqBlmWosG7nuC0Ofaj7cReMmff"
 }
 ```
